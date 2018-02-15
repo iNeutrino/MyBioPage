@@ -1,0 +1,10 @@
+body, html {
+  background-color:#288bcb;
+}
+
+.image-container {
+    margin: 0 auto;
+}
+.image-container > img {
+   width: 450px;
+}
